@@ -67,7 +67,7 @@ body, body * {
 .colorOverlay {
     position: absolute;
     background-color: #158FC9;
-    opacity: 0.9;
+    opacity: 0.7;
     top: -1456px;
     left: -180px;
     width: 200%;
